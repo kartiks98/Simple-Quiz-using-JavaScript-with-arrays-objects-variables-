@@ -8,6 +8,8 @@ Correct answer will give you +1.
 
 Wrong answer will deduct -1.
 
-3 Incorrect answers will end the quiz and will output your previous score.Click OK to proceed.
+3 Incorrect answers will end the quiz and will output your previous score.
+
+Click OK to proceed.
 
 Click CANCEL to exit the quiz.
